@@ -3,6 +3,5 @@ const sayGreeting = function () {
 };
 
 console.log(sayGreeting());
-
 console.log("Hello again");
 console.log("Hello from the other side (jylland) hahah");
